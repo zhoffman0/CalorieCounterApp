@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Calorie Counter</string>
+    <string name="email">Email</string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="height">Height</string>
+    <string name="activity_level">Activity level</string>
+    <string name="weight">Weight</string>
+    <string name="target_weight">Target weight</string>
+    <string name="measurements">Measurements</string>
+    <string name="feet_inches">feet and inches</string>
+    <string name="cm">cm</string>
+    <string name="pound">pound</string>
+    <string name="pounds">pounds</string>
+    <string name="kg">kg</string>
+
+    <string name="metric">Metric</string>
+
+    <string name="imperial">Imperial</string>
+    <string name="day">Day</string>
+
+    <string name="month">Month</string>
+    <string name="year">Year</string>
+    <string name="january">January</string>
+
+    <string name="february">February</string>
+    <string name="march">March</string>
+    <string name="april">April</string>
+    <string name="may">May</string>
+    <string name="june">June</string>
+    <string name="july">July</string>
+    <string name="august">August</string>
+    <string name="september">September</string>
+    <string name="october">October</string>
+    <string name="november">November</string>
+    <string name="december">December</string>
+    <string name="blank"> </string>
+    <string name="i_want_to">I want to</string>
+    <string name="sign_up">Sign up</string>
+
+
+    <string-array name="array_measurements">
+        <item>Imperial</item>
+        <item>Metric</item>
+    </string-array>
+
+    <string-array name="array_months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+
+    <string-array name="array_activity_levels">
+        <item>Little to no exercise</item>
+        <item>Light exercise (1–3 days per week)</item>
+        <item>Moderate exercise (3–5 days per week)</item>
+        <item>Heavy exercise (6–7 days per week)</item>
+        <item>Very heavy exercise (twice per day, extra heavy workouts)</item>
+    </string-array>
+
+    <string name="weekly_goal">Weekly goal</string>
+
+
+    <string-array name="array_weekly_goals">
+        <item>loose weight</item>
+        <item>gain weight</item>
+    </string-array>
+
+    <string-array name="array_weekly_goals_lb">
+        <item>0.5</item>
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>2.5</item>
+        <item>3</item>
+        <item>3.5</item>
+    </string-array>
+
+
+    <string name="lb_each_week">lb each week</string>
+    <string name="pounds_each_week">pounds each week</string>
+
+    <string name="lets_go">Lets go!</string>
+
+</resources>
